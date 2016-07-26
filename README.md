@@ -8,3 +8,4 @@ You wil find all useful tips about Adobe Analytics implementation in this repert
 * [Data Insertion API for Adobe Analytics.](https://github.com/alcazes/Adobe-Analytics-from-A-To-Z/wiki/Data-Insertion-API-for-Adobe-Analytics.)
 * [Adobe Analytics: performanceTiming plugin](https://github.com/alcazes/Adobe-Analytics-from-A-To-Z/wiki/Adobe-Analytics:--performanceTiming-plugin)
 * [Custom s.Util.getQueryParam: take into account fragment in URL](https://github.com/alcazes/Adobe-Analytics-from-A-To-Z/wiki/Custom-s.Util.getQueryParam:-take-into-account-fragment-in-URL)
+* [PhoneGap android app and Adobe Mobile Services](https://github.com/alcazes/Adobe-Analytics-from-A-To-Z/wiki/PhoneGap-android-app-and-Adobe-Mobile-Services)
