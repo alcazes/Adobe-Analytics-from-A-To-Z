@@ -30,7 +30,7 @@ You will find all useful tips about Adobe Analytics implementation in this reper
 
 ***
 
-DTM
+## DTM
 
 * [DTM and Data Element based on JS ARRAY and JSON ARRAY](https://github.com/alcazes/Adobe-Analytics-from-A-To-Z/wiki/DTM-and-Data-Element-based-on-JS-ARRAY-and-JSON---ARRAY)
  
