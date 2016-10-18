@@ -15,6 +15,7 @@ You will find all useful tips about Adobe Analytics implementation in this reper
 
 * [Data Insertion API for Adobe Analytics.](https://github.com/alcazes/Adobe-Analytics-from-A-To-Z/wiki/Data-Insertion-API-for-Adobe-Analytics.)
 * [Reporting API: Report Breakdown for specific item. Skip to end of metadata](https://github.com/alcazes/Adobe-Analytics-from-A-To-Z/wiki/Reporting-API:-Report-Breakdown-for-specific-item.-Skip-to-end-of-metadata)
+* [Real time API and reporting granularity](https://github.com/alcazes/Adobe-Analytics-from-A-To-Z/wiki/Real-time-API-and-reporting-granularity)
 
 ***
 
