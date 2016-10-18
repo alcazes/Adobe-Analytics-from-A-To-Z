@@ -37,6 +37,7 @@ You will find all useful tips about Adobe Analytics implementation in this reper
 
 * [DTM and Data Element based on JS ARRAY and JSON ARRAY](https://github.com/alcazes/Adobe-Analytics-from-A-To-Z/wiki/DTM-and-Data-Element-based-on-JS-ARRAY-and-JSON---ARRAY)
 * [DTM: do not fire rule if page reload or refreshed](https://github.com/alcazes/Adobe-Analytics-from-A-To-Z/wiki/DTM:-do-not-fire-rule-if-page-reload-or-refreshed)
+* [DTM : Get Marketing Cloud Visitor ID services value](https://github.com/alcazes/Adobe-Analytics-from-A-To-Z/wiki/DTM-:-Get-Marketing-Cloud-Visitor-ID-services-value)
 
  
 
