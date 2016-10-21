@@ -30,6 +30,7 @@ You will find all useful tips about Adobe Analytics implementation in this reper
 
 * [PhoneGap android app and Adobe Mobile Services](https://github.com/alcazes/Adobe-Analytics-from-A-To-Z/wiki/PhoneGap-android-app-and-Adobe-Mobile-Services)
 * [Xamarin and Adobe Mobile Services plugin](https://github.com/alcazes/Adobe-Analytics-from-A-To-Z/wiki/Xamarin-and-Adobe-Mobile-Services-plugin)
+* [Mobile and Visitor IDs](https://github.com/alcazes/Adobe-Analytics-from-A-To-Z/wiki/Mobile-and-Visitor-IDs)
 
 ***
 
